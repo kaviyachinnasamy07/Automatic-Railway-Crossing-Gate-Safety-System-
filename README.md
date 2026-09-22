@@ -31,7 +31,9 @@ Manual railway crossing gates may cause delays and safety risks if the gate is n
 
 The ultrasonic sensor continuously measures the distance in front of it. When an approaching train/object comes within the programmed distance, the Arduino detects it. The buzzer turns ON to provide an alert, and the servo motor rotates to close the gate. After the train passes and the area becomes clear, the gate can be programmed to open again.
 
-![][image1]
+## **Project**
+
+![](project.jpeg)
 
 ## **6\. Methodology**
 
